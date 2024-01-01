@@ -1,0 +1,28 @@
+NEW PROJECT
+  1. git init
+  2. git add . [ add এর পর স্পেস দিয়ে dot দিতে ভুলিও না ]
+  3. git commit -m " Meaningful Message "
+  4. git branch -M main
+  5. git remote add origin https://github.com/example/example.git
+  6. git push origin main
+
+UPDATE PROJECT
+  1. git add . [ add এর পর স্পেস দিয়ে dot দিতে ভুলিও না ]
+  2. git commit -m " Meaningful Message "
+  3. git push origin main
+
+CHANGE ORIGIN
+  1. git init
+  2. git add . [ add এর পর স্পেস দিয়ে dot দিতে ভুলিও না ]
+  3. git commit -m " Meaningful Message "
+  4. git branch -M main
+  5. git remote set-url origin https://github.com/example/example.git
+  6. git push origin main
+  
+Branching & Merging
+  1. git branch - Check Git Branch
+  2. git branch [branch name] - Create a new branch
+  3. git checkout [branch name] - Switch to a branch
+  4. git checkout -b [branch name] - Create a new branch and switch to it
+  5. git merge [branch name] - Merge a branch into the active branch
+  6. git branch -d [branch name] - Delete a branch
