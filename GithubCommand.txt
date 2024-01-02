@@ -26,3 +26,10 @@ Branching & Merging
   4. git checkout -b [branch name] - Create a new branch and switch to it
   5. git merge [branch name] - Merge a branch into the active branch
   6. git branch -d [branch name] - Delete a branch
+
+  More
+    1. touch filename.extension - Create a new file using terminal
+    2. mkdir foldername - Create a new file using terminal
+    3. git status - Check status
+    4. git reset - add করার পর যদি reset করার প্রয়োজন পড়ে
+
